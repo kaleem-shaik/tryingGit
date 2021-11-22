@@ -1,0 +1,15 @@
+C:\Users\kalee\Code Prac\TryingWPF\TryingWPF\bin\Debug\TryingWPF.exe.config
+C:\Users\kalee\Code Prac\TryingWPF\TryingWPF\bin\Debug\TryingWPF.exe
+C:\Users\kalee\Code Prac\TryingWPF\TryingWPF\bin\Debug\TryingWPF.pdb
+C:\Users\kalee\Code Prac\TryingWPF\TryingWPF\obj\Debug\TryingWPF.csproj.AssemblyReference.cache
+C:\Users\kalee\Code Prac\TryingWPF\TryingWPF\obj\Debug\MainWindow.g.cs
+C:\Users\kalee\Code Prac\TryingWPF\TryingWPF\obj\Debug\App.g.cs
+C:\Users\kalee\Code Prac\TryingWPF\TryingWPF\obj\Debug\TryingWPF_MarkupCompile.cache
+C:\Users\kalee\Code Prac\TryingWPF\TryingWPF\obj\Debug\TryingWPF_MarkupCompile.lref
+C:\Users\kalee\Code Prac\TryingWPF\TryingWPF\obj\Debug\MainWindow.baml
+C:\Users\kalee\Code Prac\TryingWPF\TryingWPF\obj\Debug\TryingWPF.g.resources
+C:\Users\kalee\Code Prac\TryingWPF\TryingWPF\obj\Debug\TryingWPF.Properties.Resources.resources
+C:\Users\kalee\Code Prac\TryingWPF\TryingWPF\obj\Debug\TryingWPF.csproj.GenerateResource.cache
+C:\Users\kalee\Code Prac\TryingWPF\TryingWPF\obj\Debug\TryingWPF.csproj.CoreCompileInputs.cache
+C:\Users\kalee\Code Prac\TryingWPF\TryingWPF\obj\Debug\TryingWPF.exe
+C:\Users\kalee\Code Prac\TryingWPF\TryingWPF\obj\Debug\TryingWPF.pdb
